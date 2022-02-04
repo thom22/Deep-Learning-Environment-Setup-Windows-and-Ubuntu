@@ -35,13 +35,25 @@ conda search cudnn
 
 ![image](https://user-images.githubusercontent.com/55071205/152477868-ecc43e4b-b736-4eea-8c42-b6a46ed9fcaf.png)
 
-5. Then install cudnn 
+5.1 Then install cudnn 
 
 conda install cudnn=8.2.1=cuda11.3_0
 
 ![image](https://user-images.githubusercontent.com/55071205/152478139-0475258d-fc14-440a-a4d4-60e16e04091b.png)
 
 
+* 5.2 Or you can use an alterantive method to install Cudnn from the webistes
+* 5.2.1 Choose the Cudnn version that is compatible with the Cuda version
+
+![image](https://user-images.githubusercontent.com/55071205/152501078-2153c9e6-e90f-4a86-a4be-709a71ffc40b.png)
+
+![image](https://user-images.githubusercontent.com/55071205/152501330-8b2ad0f9-2a44-4f11-8cde-cb47e2b2aba9.png)
+
+* 5.2.2 Download the zip file >> unzip the file >> Copy all the file >> Go to the 'Programmingfiles'
+
+![image](https://user-images.githubusercontent.com/55071205/152501930-4333c77e-9ce9-415b-a476-95330240c07a.png)
+
+* 5.2.3 Paste the copied files such as ' bin, include, lib ' to the above destination
 
 6. Install tensorflow
 
