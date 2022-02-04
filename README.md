@@ -1,1 +1,1 @@
-# Deep-Learning-Environment-Setup-Windows-Ubuntu
+# Deep-Learning-Environment-Setup-Windows & Ubuntu
