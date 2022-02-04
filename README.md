@@ -1,7 +1,8 @@
 # Deep-Learning-Environment-Setup-Windows & Ubuntu
 
 ### On Windows
-1. Check your GPU model
+1. Check your GPU model:
+
 Device Manger >> Display Adapter >>
 
 I am using **NVIDIA GeForce RTX 3070**
